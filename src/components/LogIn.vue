@@ -24,8 +24,6 @@
       </div>
     </div>
   </form>
-  <p>{{ form.email }}</p>
-  <p>{{ form.password }}</p>
 </template>
 
 <script>
